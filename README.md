@@ -1,3 +1,5 @@
+原地址：https://github.com/paopao7/AliPay-with-ThinkPHP
+
 # AliPay-with-ThinkPHP
 ThinkPHP集成支付宝demo
 ### 该demo为使用ThinkPHP 3.2.3以及最新版本的支付宝手机网站支付新版、手机网站支付旧版以及扫码支付集成的demo
