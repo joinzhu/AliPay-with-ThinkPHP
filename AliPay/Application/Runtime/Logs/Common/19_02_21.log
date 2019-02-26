@@ -1,0 +1,6 @@
+[ 2019-02-21T16:34:24+08:00 ] 192.168.112.36 /alipay/test/index.php/Payold/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+ERR: 无法加载模块:Payold
+
